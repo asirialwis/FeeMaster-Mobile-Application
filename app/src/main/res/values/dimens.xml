@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name = "sub_headings">34dp</dimen>
+    <dimen name = "student_names">16sp</dimen>
+    <dimen name = "signup_font">40sp</dimen>
+</resources>

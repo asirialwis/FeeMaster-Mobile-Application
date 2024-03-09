@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FeeMaster</string>
+    <string name="welcome">Welcome Back</string>
+    <string name="create_account">Create Account</string>
+    <string name="Name">Name</string>
+    <string name="Hello"> Hello</string>
+    <string name="John_Watson">John Watson</string>
+    <string name="search">Search</string>
+    <string name="Total_Classes">Monthly Payments</string>>
+    <string name="video_call">Video Call</string>>
+    <string name="pay_value"> LKR 20300</string>
+    <string name="Create_class">New Class</string>
+    <string name="Recent_Classes">Recent Payments</string>
+    <string name="student1">Nimesh Perera 50000</string>
+    <string name="student2">Hasini SIlwa 50000</string>
+    <string name="add_class">Add Student</string>
+    <string name="button_save">Save</string>
+    <string name="title_activity_main5">MainActivity5</string>
+    <string name="faetures">Features For You</string>
+    <string name="title_activity_main6">MainActivity6</string>
+    <string name="profile">Your Profile</string>
+    <string name="username">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="email_hint">feemaster@fm.com</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="update_button">Update</string>
+    <string name="password_hint">*******</string>
+    <string name="feature1">You can track each students payment easily.</string>
+    <string name="feature2">You can mark students attendance using FeeMaster</string>
+    <string name="feature3">Track your monthly income easily</string>
+    <string name="today_shedule">Your Shedules</string>
+</resources>

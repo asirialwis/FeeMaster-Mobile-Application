@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>               //Accent Color
+    <color name="white">#FFFFFFFF</color>               //Primary Color
+    <color name = "font_blue">#6672FF </color>          //Primary Color
+    <color name = "button_blue">#5D3FD3</color>         //Primary Color
+    <color name = "hint_color">#3B608C</color>          //Accent Color
+    <color name = "form_background">#91A6FF</color>     //Secondary Color
+    <color name = "navbar_background1">#88C7FD</color>  //Secondary Color
+    <color name = "navbar_background2">#AAD4F5</color>  //Secondary Color
+    <color name = "logo_color">#89C400</color>          //Accent Color
+</resources>
+
+
